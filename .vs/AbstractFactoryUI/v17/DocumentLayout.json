@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|c:\\users\\spmuk\\downloads\\abstractfactoryui\\mac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|solutionrelative:mac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|c:\\users\\spmuk\\downloads\\abstractfactoryui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|c:\\users\\spmuk\\downloads\\abstractfactoryui\\uiinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|solutionrelative:uiinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|c:\\users\\spmuk\\downloads\\abstractfactoryui\\web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|solutionrelative:web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|c:\\users\\spmuk\\downloads\\abstractfactoryui\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9908DFE-0507-CA98-F940-6BEFF19C9F18}|AbstractFactoryUI.csproj|solutionrelative:windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mac.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Mac.cs",
+              "RelativeDocumentMoniker": "Mac.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Mac.cs",
+              "RelativeToolTip": "Mac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:40:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:40:18.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\UIInterfaces.cs",
+              "RelativeDocumentMoniker": "UIInterfaces.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\UIInterfaces.cs",
+              "RelativeToolTip": "UIInterfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:40:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Web.cs",
+              "RelativeDocumentMoniker": "Web.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Web.cs",
+              "RelativeToolTip": "Web.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:40:14.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Windows.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Windows.cs",
+              "RelativeDocumentMoniker": "Windows.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\AbstractFactoryUI\\Windows.cs",
+              "RelativeToolTip": "Windows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:40:10.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
